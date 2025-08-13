@@ -20,7 +20,8 @@ Webpage link : https://pry-trout-76958069.figma.site
 [we cant understand what dogs are saying]
 
 ### The Solution (that nobody asked for)
-[we made a translator for understanding]
+[we made a translator for understanding dogs 
+]
 
 ## Technical Details
 ### Technologies/Components Used
